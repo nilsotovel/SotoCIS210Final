@@ -27,106 +27,111 @@ namespace SotoCIS210Final
 
         private void BuildUI()
         {
-
             this.Text = "Soto CIS210 Final";
             this.Font = new Font(this.Font.FontFamily, 10);
             this.FormBorderStyle = FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
             this.MinimizeBox = true;
-            this.ClientSize = new Size(660, 620);
+            this.ClientSize = new Size(700, 650);
 
             checkBoxOne = new CheckBox();
             checkBoxOne.Text = "One";
             checkBoxOne.Location = new Point(50, 30);
+            checkBoxOne.Size = new Size(80, 25);
             checkBoxOne.Checked = true;
             checkBoxOne.CheckedChanged += CheckBox_CheckedChanged;
 
             checkBoxTwo = new CheckBox();
             checkBoxTwo.Text = "Two";
             checkBoxTwo.Location = new Point(50, 60);
+            checkBoxTwo.Size = new Size(80, 25);
             checkBoxTwo.Checked = false;
             checkBoxTwo.CheckedChanged += CheckBox_CheckedChanged;
 
             textBoxState = new TextBox();
-            textBoxState.Location = new Point(250, 30);
-            textBoxState.Width = 120;
+            textBoxState.Location = new Point(200, 40);
+            textBoxState.Size = new Size(130, 25);
             textBoxState.ReadOnly = true;
             textBoxState.Text = "One";
 
             labelScore1 = new Label();
             labelScore1.Text = "Score 1";
-            labelScore1.Location = new Point(50, 130);
+            labelScore1.Location = new Point(50, 120);
+            labelScore1.Size = new Size(90, 22);
 
             textBoxScore1 = new TextBox();
-            textBoxScore1.Location = new Point(50, 155);
-            textBoxScore1.Width = 80;
+            textBoxScore1.Location = new Point(50, 145);
+            textBoxScore1.Size = new Size(90, 25);
 
             labelScore2 = new Label();
             labelScore2.Text = "Score 2";
-            labelScore2.Location = new Point(160, 130);
+            labelScore2.Location = new Point(170, 120);
+            labelScore2.Size = new Size(90, 22);
 
             textBoxScore2 = new TextBox();
-            textBoxScore2.Location = new Point(160, 155);
-            textBoxScore2.Width = 80;
+            textBoxScore2.Location = new Point(170, 145);
+            textBoxScore2.Size = new Size(90, 25);
 
             labelScore3 = new Label();
             labelScore3.Text = "Score 3";
-            labelScore3.Location = new Point(270, 130);
+            labelScore3.Location = new Point(290, 120);
+            labelScore3.Size = new Size(90, 22);
 
             textBoxScore3 = new TextBox();
-            textBoxScore3.Location = new Point(270, 155);
-            textBoxScore3.Width = 80;
+            textBoxScore3.Location = new Point(290, 145);
+            textBoxScore3.Size = new Size(90, 25);
 
             labelAverage = new Label();
             labelAverage.Text = "Average";
-            labelAverage.Location = new Point(400, 130);
+            labelAverage.Location = new Point(420, 120);
+            labelAverage.Size = new Size(90, 22);
 
             labelAverageValue = new Label();
-            labelAverageValue.Location = new Point(400, 155);
-            labelAverageValue.Width = 100;
-            labelAverageValue.Height = 22;
+            labelAverageValue.Location = new Point(420, 145);
+            labelAverageValue.Size = new Size(110, 25);
             labelAverageValue.BorderStyle = BorderStyle.Fixed3D;
             labelAverageValue.AutoSize = false;
 
             buttonCalculate = new Button();
             buttonCalculate.Text = "Calculate Average";
-            buttonCalculate.Location = new Point(240, 200);
-            buttonCalculate.Width = 130;
-            buttonCalculate.Height = 45;
+            buttonCalculate.Location = new Point(230, 195);
+            buttonCalculate.Size = new Size(150, 40);
             buttonCalculate.Click += ButtonCalculate_Click;
 
             groupBoxExtra = new GroupBox();
             groupBoxExtra.Text = "Extra 20%";
-            groupBoxExtra.Location = new Point(30, 270);
-            groupBoxExtra.Size = new Size(600, 320);
+            groupBoxExtra.Location = new Point(30, 260);
+            groupBoxExtra.Size = new Size(630, 350);
 
             radioAscending = new RadioButton();
             radioAscending.Text = "Ascending";
             radioAscending.Location = new Point(20, 40);
+            radioAscending.Size = new Size(120, 25);
             radioAscending.CheckedChanged += RadioSort_CheckedChanged;
 
             radioDescending = new RadioButton();
             radioDescending.Text = "Descending";
             radioDescending.Location = new Point(20, 80);
+            radioDescending.Size = new Size(120, 25);
             radioDescending.CheckedChanged += RadioSort_CheckedChanged;
 
             textBoxNumbers = new TextBox();
             textBoxNumbers.Location = new Point(200, 30);
-            textBoxNumbers.Size = new Size(200, 220);
+            textBoxNumbers.Size = new Size(220, 240);
             textBoxNumbers.Multiline = true;
             textBoxNumbers.ScrollBars = ScrollBars.Vertical;
             textBoxNumbers.ReadOnly = true;
 
             buttonNoDuplicates = new Button();
             buttonNoDuplicates.Text = "No Duplicates";
-            buttonNoDuplicates.Location = new Point(430, 110);
-            buttonNoDuplicates.Width = 120;
+            buttonNoDuplicates.Location = new Point(450, 120);
+            buttonNoDuplicates.Size = new Size(130, 40);
             buttonNoDuplicates.Click += ButtonNoDuplicates_Click;
 
             buttonGenerate = new Button();
             buttonGenerate.Text = "Generate";
-            buttonGenerate.Location = new Point(270, 265);
-            buttonGenerate.Width = 100;
+            buttonGenerate.Location = new Point(270, 290);
+            buttonGenerate.Size = new Size(110, 40);
             buttonGenerate.Click += ButtonGenerate_Click;
 
             groupBoxExtra.Controls.Add(radioAscending);

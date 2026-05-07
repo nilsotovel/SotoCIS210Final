@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SotoCIS210Final")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27d8ffb7d427007301bf1619c8107907173438c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("SotoCIS210Final")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SotoCIS210Final")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

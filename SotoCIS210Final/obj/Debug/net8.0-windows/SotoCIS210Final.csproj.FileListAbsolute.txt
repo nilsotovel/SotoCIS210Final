@@ -1,0 +1,17 @@
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\bin\Debug\net8.0-windows\SotoCIS210Final.exe
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\bin\Debug\net8.0-windows\SotoCIS210Final.deps.json
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\bin\Debug\net8.0-windows\SotoCIS210Final.runtimeconfig.json
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\bin\Debug\net8.0-windows\SotoCIS210Final.dll
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\bin\Debug\net8.0-windows\SotoCIS210Final.pdb
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.Form1.resources
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.csproj.GenerateResource.cache
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.AssemblyInfoInputs.cache
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.AssemblyInfo.cs
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.csproj.CoreCompileInputs.cache
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.sourcelink.json
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.dll
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\refint\SotoCIS210Final.dll
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.pdb
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\SotoCIS210Final.genruntimeconfig.cache
+C:\Users\nilso\SotoCIS210Final\SotoCIS210Final\obj\Debug\net8.0-windows\ref\SotoCIS210Final.dll

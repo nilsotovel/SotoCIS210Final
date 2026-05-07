@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOqj435e76Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nilso\\SotoCIS210Final\\SotoCIS210Final\\SotoCIS210Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nilso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\nilso\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\nilso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\nilso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
